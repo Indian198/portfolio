@@ -1,0 +1,136 @@
+body{
+     background-color:rgb(228,228,228); 
+     }
+#me{
+  color:black;
+  font-size:108px;
+  text-align:center;
+  font-family:algerian;
+  background-color:orange;
+   }
+
+#about{
+  color:black;
+  font-size:48px;
+  text-align:left;
+  background-color:orange; 
+   }
+  
+#d{
+   font-size:30px;
+   float:left;
+   margin-top: 20PX;
+   margin-bottom: 100PX;
+   }
+
+#img1{
+   margin-right: 400px;
+   float:right;
+   border-top-left-radius : 30px;
+   border-bottom-left-radius: 30px;
+   border-top-right-radius:30px;
+   border-bottom-right-radius:30px;
+   overflow: auto;
+
+      }
+
+#img2{
+   margin-right: 20px;
+   float:right;
+   border-top-left-radius : 30px;
+   border-bottom-left-radius: 30px;
+   border-top-right-radius:30px;
+   border-bottom-right-radius:30px;
+   overflow: auto;
+
+     }
+  
+#img3{
+   margin-right: 20px;
+   float:right;
+   border-top-left-radius : 30px;
+   border-bottom-left-radius: 30px;
+   border-top-right-radius:30px;
+   border-bottom-right-radius:30px;
+   overflow: auto;
+     }
+
+
+
+#link{ 
+   color:black;
+   font-size:20px;
+   }
+
+#education{
+   margin-top: 280px;
+   color: white;
+   font-size: 40px; 
+   background-color: grey;
+   text-decoration: blink;
+   }
+#nursery{
+    font-size: 28px; 
+    font-style: bold;
+   }
+
+#school{
+    float: left;
+    font-size: 20px;
+    font-style: bold;
+    }  
+
+
+#xavimg{
+   margin-right: 400px;
+   float: right;
+   border-top-left-radius : 20px;
+   border-bottom-left-radius: 20px;
+   border-top-right-radius:20px;
+   border-bottom-right-radius:20px;
+   overflow: auto;
+   }
+
+#intermediate{
+  margin-top: 250px;
+  font-size: 28px; 
+  font-style: bold;
+}
+
+#school2{
+    float: left;
+    font-size: 20px;
+    font-style: bold;
+    }  
+
+#jkgimg{
+   margin-right: 400px;
+   float: right;
+   border-top-left-radius : 20px;
+   border-bottom-left-radius: 20px;
+   border-top-right-radius:20px;
+   border-bottom-right-radius:20px;
+   overflow: auto;
+   }
+
+#graduation{
+  margin-top: 250px;
+  font-size: 28px; 
+  font-style: bold;
+}   
+
+#college{
+    float: left;
+    font-size: 20px;
+    font-style: bold;
+    }  
+
+#colimg{
+   margin-right: 400px;
+   float: right;
+   border-top-left-radius : 20px;
+   border-bottom-left-radius: 20px;
+   border-top-right-radius:20px;
+   border-bottom-right-radius:20px;
+   overflow: auto;
+   }
